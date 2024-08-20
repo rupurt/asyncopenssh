@@ -1,0 +1,19 @@
+{
+  "fetchPipMetadata": {
+    "sources": {
+      "setuptools": {
+        "is_direct": false,
+        "sha256": "b208925fcb9f7af924ed2dc04708ea89791e24bde0d3020b27df0e116088b34e",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/07/6a/0270e295bf30c37567736b7fca10167640898214ff911273af37ddb95770/setuptools-73.0.1-py3-none-any.whl",
+        "version": "73.0.1"
+      }
+    },
+    "targets": {
+      "default": {
+        "setuptools": []
+      }
+    }
+  },
+  "invalidationHash": "b3310ca8c26c13ff2719775eab621a1337b7a6755a09cf35c469183237d98bdc"
+}
